@@ -1,0 +1,10 @@
+2023-09-04T18:10:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\htdocs_link\v-project\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\AbstractDependencyType.php on line 42
+
+2023-09-04T18:10:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\htdocs_link\v-project\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Registry\Container.php on line 87
+
+2023-09-04T19:01:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\htdocs_link\v-project\wp-includes\class-wp-image-editor-gd.php on line 208
+
+2023-09-04T19:05:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\htdocs_link\v-project\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-reports-v1-controller.php on line 43
+
+2023-09-04T19:05:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\htdocs_link\v-project\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-tools-v2-controller.php on line 39
+
